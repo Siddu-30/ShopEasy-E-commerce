@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "1",
+    "name": "vivo V50",
+    "price": 34999,
+    "image": "/images/products/mobiles/vivo-v50.jpg",
+    "description": "Vivo V50 5G (Rose Red, 8GB RAM, 256GB Storage)",
+    "longDescription": "Vivo V50 5G (Rose Red, 8GB RAM, 256GB Storage)",
+    "rating": 4.5,
+    "reviews": 112,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "mobiles",
+      "vivo",
+      "vivo",
+      "v50"
+    ],
+    "brand": "vivo"
+  },
+  {
+    "id": "2",
+    "name": "vivo t14x",
+    "price": 14999,
+    "image": "/images/products/mobiles/vivo-t14x.jpg",
+    "description": "vivo T4x 5G (Pronto Purple, 128 GB)  (6 GB RAM)",
+    "longDescription": "vivo T4x 5G (Pronto Purple, 128 GB)  (6 GB RAM)",
+    "rating": 4.5,
+    "reviews": 77,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "mobiles",
+      "vivo",
+      "vivo",
+      "t14x"
+    ],
+    "brand": "vivo"
+  },
+  {
+    "id": "3",
+    "name": "vivo x200",
+    "price": 65999,
+    "image": "/images/products/mobiles/vivo-x200.jpg",
+    "description": "Vivo X200 5G (Natural Green, 12GB RAM, 256GB Storage)",
+    "longDescription": "Vivo X200 5G (Natural Green, 12GB RAM, 256GB Storage)",
+    "rating": 4.7,
+    "reviews": 69,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "mobiles",
+      "vivo",
+      "vivo",
+      "x200"
+    ],
+    "brand": "vivo"
+  },
+  {
+    "id": "4",
+    "name": "oppo k12X",
+    "price": 12999,
+    "image": "/images/products/undefined/oppo-k12x.jpg",
+    "description": "OPPO K12x 5G (Breeze Blue, 128 GB)  (6 GB RAM)",
+    "longDescription": "OPPO K12x 5G (Breeze Blue, 128 GB)  (6 GB RAM)",
+    "rating": 4.5,
+    "reviews": 82,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "oppo",
+      "oppo",
+      "k12x"
+    ],
+    "brand": "oppo"
+  },
+  {
+    "id": "5",
+    "name": "iphone 15",
+    "price": 59999,
+    "image": "/images/products/undefined/iphone-15.jpg",
+    "description": "Apple iPhone 15 (128 GB) - Black",
+    "longDescription": "Apple iPhone 15 (128 GB) - Black",
+    "rating": 4.5,
+    "reviews": 64,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "iphone",
+      "iphone",
+      "15"
+    ],
+    "brand": "iphone"
+  },
+  {
+    "id": "6",
+    "name": "samsung s25",
+    "price": 85999,
+    "image": "/images/products/undefined/samsung-s25.jpg",
+    "description": "Samsung Galaxy S25 5G AI Smartphone (Silver Shadow, 12GB RAM, 256GB Storage)",
+    "longDescription": "Samsung Galaxy S25 5G AI Smartphone (Silver Shadow, 12GB RAM, 256GB Storage)",
+    "rating": 4.5,
+    "reviews": 81,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "samsung",
+      "samsung",
+      "s25"
+    ],
+    "brand": "samsung"
+  },
+  {
+    "id": "7",
+    "name": "realme p1",
+    "price": 13499,
+    "image": "/images/products/undefined/realme-p1.jpg",
+    "description": "realme P1 5G (Feather Blue, 6GB RAM, 128GB Storage)",
+    "longDescription": "realme P1 5G (Feather Blue, 6GB RAM, 128GB Storage)",
+    "rating": 3.7,
+    "reviews": 41,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "realme",
+      "realme",
+      "p1"
+    ],
+    "brand": "realme"
+  },
+  {
+    "id": "8",
+    "name": "poco x7pro",
+    "price": 25999,
+    "image": "/images/products/undefined/poco-x7pro.jpg",
+    "description": "POCO X7 Pro 5G (Obsidian Black, 256 GB) (8 GB RAM)",
+    "longDescription": "POCO X7 Pro 5G (Obsidian Black, 256 GB) (8 GB RAM)",
+    "rating": 4.5,
+    "reviews": 31,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "poco",
+      "poco",
+      "x7pro"
+    ],
+    "brand": "poco"
+  },
+  {
+    "id": "9",
+    "name": "Moto Edge 50",
+    "price": 19999,
+    "image": "/images/products/undefined/moto-edge-50.jpg",
+    "description": "Motorola Edge 50 Fusion 5G (Marshmallow Blue, 8GB RAM, 128GB Storage)",
+    "longDescription": "Motorola Edge 50 Fusion 5G (Marshmallow Blue, 8GB RAM, 128GB Storage)",
+    "rating": 4.1,
+    "reviews": 43,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "motorola",
+      "moto",
+      "edge",
+      "50"
+    ],
+    "brand": "motorola"
+  },
+  {
+    "id": "10",
+    "name": "oneplus 13",
+    "price": 68999,
+    "image": "/images/products/undefined/oneplus-13.jpg",
+    "description": "OnePlus 13 | Smarter with OnePlus AI (12GB RAM, 256GB Storage Black Eclipse)",
+    "longDescription": "OnePlus 13 | Smarter with OnePlus AI (12GB RAM, 256GB Storage Black Eclipse)",
+    "rating": 4.4,
+    "reviews": 113,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "oneplus",
+      "oneplus",
+      "13"
+    ],
+    "brand": "oneplus"
+  },
+  {
+    "id": "11",
+    "name": "redmi A4",
+    "price": 8999,
+    "image": "/images/products/undefined/redmi-a4.jpg",
+    "description": "Redmi A4 5G (Sparkle Purple, 4GB RAM, 128GB Storage)",
+    "longDescription": "Redmi A4 5G (Sparkle Purple, 4GB RAM, 128GB Storage)",
+    "rating": 4,
+    "reviews": 88,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "redmi",
+      "redmi",
+      "a4"
+    ],
+    "brand": "redmi"
+  },
+  {
+    "id": "12",
+    "name": "iqoo z9spro",
+    "price": 22999,
+    "image": "/images/products/undefined/iqoo-z9spro.jpg",
+    "description": "iQOO Z9s Pro 5G (Flamboyant Orange, 8GB RAM, 128GB Storage)",
+    "longDescription": "iQOO Z9s Pro 5G (Flamboyant Orange, 8GB RAM, 128GB Storage)",
+    "rating": 4.4,
+    "reviews": 41,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "iqoo",
+      "iqoo",
+      "z9spro"
+    ],
+    "brand": "iqoo"
+  },
+  {
+    "id": "13",
+    "name": "product name",
+    "price": 0,
+    "image": "/images/products/Laptops/product-name.jpg",
+    "description": "discerption",
+    "longDescription": "discerption",
+    "rating": 0,
+    "reviews": 115,
+    "inStock": true,
+    "categoryId": "2",
+    "featured": false,
+    "tags": [
+      "Laptops",
+      "brand",
+      "product",
+      "name"
+    ],
+    "brand": "brand"
+  },
+  {
+    "id": "14",
+    "name": "HP Victus",
+    "price": 59999,
+    "image": "/images/products/undefined/hp-victus.jpg",
+    "description": "HP Victus, AMD Ryzen 5 5600H, NVIDIA RTX 3050, 16GB DDR4, 512GB SSD (Win11, Office21, Blue, 2.37kg) 144Hz, 9MS, IPS, 15.6-inch(39.6cm) Gaming Laptop, Backlit kb, Enhanced Cooling",
+    "longDescription": "HP Victus, AMD Ryzen 5 5600H, NVIDIA RTX 3050, 16GB DDR4, 512GB SSD (Win11, Office21, Blue, 2.37kg) 144Hz, 9MS, IPS, 15.6-inch(39.6cm) Gaming Laptop, Backlit kb, Enhanced Cooling",
+    "rating": 4.1,
+    "reviews": 114,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "HP",
+      "hp",
+      "victus"
+    ],
+    "brand": "HP"
+  },
+  {
+    "id": "15",
+    "name": "Dell Inspiron",
+    "price": 57999,
+    "image": "/images/products/undefined/dell-inspiron.jpg",
+    "description": "Dell Inspiron 3530 Thin & Light Laptop, 13th Gen Intel Core i5-1334U Processor, 16GB, 1TB SSD, 15.6\" (39.62cm) FHD Display, Backlit Keyboard, Windows 11 + MSO'24 & 15 Month McAfee, Silver, 1.62kg",
+    "longDescription": "Dell Inspiron 3530 Thin & Light Laptop, 13th Gen Intel Core i5-1334U Processor, 16GB, 1TB SSD, 15.6\" (39.62cm) FHD Display, Backlit Keyboard, Windows 11 + MSO'24 & 15 Month McAfee, Silver, 1.62kg",
+    "rating": 3.7,
+    "reviews": 64,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "DELL",
+      "dell",
+      "inspiron"
+    ],
+    "brand": "DELL"
+  },
+  {
+    "id": "16",
+    "name": "asus tuf",
+    "price": 65999,
+    "image": "/images/products/undefined/asus-tuf.jpg",
+    "description": "ASUS TUF Gaming A15, AMD Ryzen 7 7435Hs, NVIDIA Geforce RTX 3050, 16GB RAM, 512GB SSD, FHD 144Hz, 15.6\", Windows 11, Graphite Black, 2.3KG, FA506NCR-HN054W, 48WHR Gaming Laptop",
+    "longDescription": "ASUS TUF Gaming A15, AMD Ryzen 7 7435Hs, NVIDIA Geforce RTX 3050, 16GB RAM, 512GB SSD, FHD 144Hz, 15.6\", Windows 11, Graphite Black, 2.3KG, FA506NCR-HN054W, 48WHR Gaming Laptop",
+    "rating": 3.9,
+    "reviews": 56,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "ASUS",
+      "asus",
+      "tuf"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "17",
+    "name": "Acer ALG",
+    "price": 64999,
+    "image": "/images/products/undefined/acer-alg.jpg",
+    "description": "Acer ALG Intel Core i5-13th Gen 13420H Processor, NVIDIA GeForce RTX 3050-6GB DDR6(16 GB RAM/512GB SSD) FHD, 15.6\"/39.62cm, 144Hz,Windows 11 Home, Steel Gray, 1.99kg, AL15G-53, Gaming Laptop",
+    "longDescription": "Acer ALG Intel Core i5-13th Gen 13420H Processor, NVIDIA GeForce RTX 3050-6GB DDR6(16 GB RAM/512GB SSD) FHD, 15.6\"/39.62cm, 144Hz,Windows 11 Home, Steel Gray, 1.99kg, AL15G-53, Gaming Laptop",
+    "rating": 4,
+    "reviews": 86,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "ACER",
+      "acer",
+      "alg"
+    ],
+    "brand": "ACER"
+  },
+  {
+    "id": "18",
+    "name": "product name",
+    "price": 0,
+    "image": "/images/products/TV/product-name.jpg",
+    "description": "discerption",
+    "longDescription": "discerption",
+    "rating": 0,
+    "reviews": 92,
+    "inStock": true,
+    "categoryId": "3",
+    "featured": false,
+    "tags": [
+      "TV",
+      "brand",
+      "product",
+      "name"
+    ],
+    "brand": "brand"
+  },
+  {
+    "id": "19",
+    "name": "LG 4K",
+    "price": 41599,
+    "image": "/images/products/undefined/lg-4k.jpg",
+    "description": "LG 139 cm (55 inches) 4K Ultra HD Smart LED TV 55UR7500PSC (Dark Iron Gray)",
+    "longDescription": "LG 139 cm (55 inches) 4K Ultra HD Smart LED TV 55UR7500PSC (Dark Iron Gray)",
+    "rating": 4,
+    "reviews": 59,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "LG",
+      "lg",
+      "4k"
+    ],
+    "brand": "LG"
+  },
+  {
+    "id": "20",
+    "name": "Samsung",
+    "price": 45999,
+    "image": "/images/products/undefined/samsung.jpg",
+    "description": "Samsung 138 cm (55 inches) D Series Brighter Crystal 4K Vivid Pro Ultra HD Smart LED TV UA55DUE77AKLXL (Black)",
+    "longDescription": "Samsung 138 cm (55 inches) D Series Brighter Crystal 4K Vivid Pro Ultra HD Smart LED TV UA55DUE77AKLXL (Black)",
+    "rating": 4,
+    "reviews": 35,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "Samsung",
+      "samsung"
+    ],
+    "brand": "Samsung"
+  },
+  {
+    "id": "21",
+    "name": "MI",
+    "price": 68999,
+    "image": "/images/products/undefined/mi.jpg",
+    "description": "MI Xiaomi 164 cm (65 inches) X Pro QLED Series Smart Google TV L65MA-SIN 4K Ultra HD(Black)",
+    "longDescription": "MI Xiaomi 164 cm (65 inches) X Pro QLED Series Smart Google TV L65MA-SIN 4K Ultra HD(Black)",
+    "rating": 3.8,
+    "reviews": 70,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "MI",
+      "mi"
+    ],
+    "brand": "MI"
+  },
+  {
+    "id": "22",
+    "name": "Sony Bravia 2",
+    "price": 76999,
+    "image": "/images/products/undefined/sony-bravia-2.jpg",
+    "description": "Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black)",
+    "longDescription": "Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black)",
+    "rating": 4.5,
+    "reviews": 118,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "Sony",
+      "sony",
+      "bravia",
+      "2"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "id": "23",
+    "name": "pro1",
+    "price": 0,
+    "image": "/images/products/Fashion/pro1.jpg",
+    "description": "dis2",
+    "longDescription": "dis2",
+    "rating": 0,
+    "reviews": 37,
+    "inStock": true,
+    "categoryId": "4",
+    "featured": false,
+    "tags": [
+      "Fashion",
+      "brand",
+      "pro1"
+    ],
+    "brand": "brand"
+  },
+  {
+    "id": "24",
+    "name": "Shirt",
+    "price": 750,
+    "image": "/images/products/undefined/shirt.jpg",
+    "description": "Peter England Men's Printed Slim Fit Shirt",
+    "longDescription": "Peter England Men's Printed Slim Fit Shirt",
+    "rating": 4,
+    "reviews": 89,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "men",
+      "shirt"
+    ],
+    "brand": "men"
+  },
+  {
+    "id": "25",
+    "name": "PE",
+    "price": 810,
+    "image": "/images/products/undefined/pe.jpg",
+    "description": "Allen Solly Men's Regular Fit Shirt",
+    "longDescription": "Allen Solly Men's Regular Fit Shirt",
+    "rating": 4.6,
+    "reviews": 25,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "men",
+      "pe"
+    ],
+    "brand": "men"
+  },
+  {
+    "id": "26",
+    "name": "T-shirts",
+    "price": 1449,
+    "image": "/images/products/undefined/t-shirts.jpg",
+    "description": "U.S. Polo Assn. Men's Slim Fit T-Shirt",
+    "longDescription": "U.S. Polo Assn. Men's Slim Fit T-Shirt",
+    "rating": 3.6,
+    "reviews": 63,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "t-shirts"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "US",
+    "price": 659,
+    "image": "/images/products/undefined/us.jpg",
+    "description": "Louis Philippe Men's Solid Slim Fit T-Shirt",
+    "longDescription": "Louis Philippe Men's Solid Slim Fit T-Shirt",
+    "rating": 3.7,
+    "reviews": 48,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "us"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Pants",
+    "price": 950,
+    "image": "/images/products/undefined/pants.jpg",
+    "description": "Peter England Men's Skinny Casual Pants",
+    "longDescription": "Peter England Men's Skinny Casual Pants",
+    "rating": 3.5,
+    "reviews": 111,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "pants"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "PE",
+    "price": 1349,
+    "image": "/images/products/undefined/pe.jpg",
+    "description": "Levi's Men's 511 Slim Fit Mid Rise Jeans",
+    "longDescription": "Levi's Men's 511 Slim Fit Mid Rise Jeans",
+    "rating": 3.9,
+    "reviews": 105,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "pe"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "pro1",
+    "price": 0,
+    "image": "/images/products/undefined/pro1.jpg",
+    "description": "des2",
+    "longDescription": "des2",
+    "rating": 0,
+    "reviews": 72,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "women",
+      "pro1"
+    ],
+    "brand": "women"
+  },
+  {
+    "id": "31",
+    "name": "Sarees",
+    "price": 1499,
+    "image": "/images/products/undefined/sarees.jpg",
+    "description": "SGF11- Women's Kanjivaram Pure Soft Silk Handloom Saree Pure Golden Zari With Blouse Piece",
+    "longDescription": "SGF11- Women's Kanjivaram Pure Soft Silk Handloom Saree Pure Golden Zari With Blouse Piece",
+    "rating": 4.1,
+    "reviews": 82,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "sarees"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "SGF",
+    "price": 350,
+    "image": "/images/products/undefined/sgf.jpg",
+    "description": "DHRUVI TRENDZ Saree | Women Saree | Cotton Silk Saree | casual Saree | Saree for Women | Silk Saree | Banarasi Saree",
+    "longDescription": "DHRUVI TRENDZ Saree | Women Saree | Cotton Silk Saree | casual Saree | Saree for Women | Silk Saree | Banarasi Saree",
+    "rating": 3.7,
+    "reviews": 105,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "sgf"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "kurti",
+    "price": 600,
+    "image": "/images/products/undefined/kurti.jpg",
+    "description": "rangita Orange Rayon Calf Length Printed A-line Kurti for Women | Kurta for Women",
+    "longDescription": "rangita Orange Rayon Calf Length Printed A-line Kurti for Women | Kurta for Women",
+    "rating": 4.5,
+    "reviews": 24,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "kurti"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "rangita",
+    "price": 1460,
+    "image": "/images/products/undefined/rangita.jpg",
+    "description": "INDO ERA Women's Embroidered Silk Blend Straight Kurta Pant With Dupatta Set",
+    "longDescription": "INDO ERA Women's Embroidered Silk Blend Straight Kurta Pant With Dupatta Set",
+    "rating": 4.6,
+    "reviews": 47,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "rangita"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "bag",
+    "price": 999,
+    "image": "/images/products/undefined/bag.jpg",
+    "description": "PALAY® Small Sling Bag for Women Mini Colorblock Crossbody Bag For Girls Purse, Fashion Shoulder Bag",
+    "longDescription": "PALAY® Small Sling Bag for Women Mini Colorblock Crossbody Bag For Girls Purse, Fashion Shoulder Bag",
+    "rating": 4.5,
+    "reviews": 70,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "bag"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "watch2",
+    "price": 6248,
+    "image": "/images/products/undefined/watch2.jpg",
+    "description": "Fossil Cuff Chronograph White Dial Men's Watch-CH2565",
+    "longDescription": "Fossil Cuff Chronograph White Dial Men's Watch-CH2565",
+    "rating": 4.1,
+    "reviews": 35,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "watch2"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "watch1",
+    "price": 2860,
+    "image": "/images/products/undefined/watch1.jpg",
+    "description": "Daniel Klein Leather Analog Dial Men Watch",
+    "longDescription": "Daniel Klein Leather Analog Dial Men Watch",
+    "rating": 3.6,
+    "reviews": 86,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "watch1"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "footwear",
+    "price": 2796,
+    "image": "/images/products/undefined/footwear.jpg",
+    "description": "Crocs Unisex-Adult Classic Sbw Clogs, Brown, 6 UK",
+    "longDescription": "Crocs Unisex-Adult Classic Sbw Clogs, Brown, 6 UK",
+    "rating": 4.7,
+    "reviews": 76,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "footwear"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "slippers",
+    "price": 1799,
+    "image": "/images/products/undefined/slippers.jpg",
+    "description": "Indifeet Orthopedic Chappals for Women, Women's Stylish Doctor Slippers Footwear, Ladies Fancy Soft Sandal Slipper, Woman Latest Casual Thong Chappal, Lady Fashion Best Daily Use Sandals",
+    "longDescription": "Indifeet Orthopedic Chappals for Women, Women's Stylish Doctor Slippers Footwear, Ladies Fancy Soft Sandal Slipper, Woman Latest Casual Thong Chappal, Lady Fashion Best Daily Use Sandals",
+    "rating": 4.2,
+    "reviews": 100,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "slippers"
+    ]
+  },
+  {
+    "id": "40",
+    "name": " Mattressses",
+    "price": 12998,
+    "image": "/images/products/Home & Kitchen/-mattressses.jpg",
+    "description": "Wakefit Mattress | 10 Years Warranty | ShapeSense Orthopedic Classic Memory Foam Mattress, Mattress Double Bed, 6-Inch Bed Mattress, King Size Mattress (78x72x6 Inches, Medium Firm, Space Grey)",
+    "longDescription": "Wakefit Mattress | 10 Years Warranty | ShapeSense Orthopedic Classic Memory Foam Mattress, Mattress Double Bed, 6-Inch Bed Mattress, King Size Mattress (78x72x6 Inches, Medium Firm, Space Grey)",
+    "rating": 4.4,
+    "reviews": 53,
+    "inStock": true,
+    "categoryId": "5",
+    "featured": false,
+    "tags": [
+      "Home & Kitchen",
+      "furniture",
+      "mattressses"
+    ],
+    "brand": "furniture"
+  },
+  {
+    "id": "41",
+    "name": "recliner",
+    "price": 35999,
+    "image": "/images/products/undefined/recliner.jpg",
+    "description": "The Sleep Company Luxe Motorised RRR Recliner |Patented SmartGRID Technology| Motorised Single Recliner Sofa with Revolving Mechanism| Rocking Sofa | Unique Lumbar Design | Premium Upholstery | Beige",
+    "longDescription": "The Sleep Company Luxe Motorised RRR Recliner |Patented SmartGRID Technology| Motorised Single Recliner Sofa with Revolving Mechanism| Rocking Sofa | Unique Lumbar Design | Premium Upholstery | Beige",
+    "rating": 4.3,
+    "reviews": 112,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "recliner"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "dinning table",
+    "price": 15669,
+    "image": "/images/products/undefined/dinning-table.jpg",
+    "description": "SONA ART & CRAFTS Modern Furniture Solid Sheesham Wood Dining Table 4 Seater Dining Table Set with 4 Cushion Chairs Dinner Table Set for Dinning Room Home Hotel and Office (Natural Finish)",
+    "longDescription": "SONA ART & CRAFTS Modern Furniture Solid Sheesham Wood Dining Table 4 Seater Dining Table Set with 4 Cushion Chairs Dinner Table Set for Dinning Room Home Hotel and Office (Natural Finish)",
+    "rating": 4.1,
+    "reviews": 86,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "dinning",
+      "table"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "sofa",
+    "price": 29294,
+    "image": "/images/products/undefined/sofa.jpg",
+    "description": "Sleepyhead Kiki - 3+2 Seater Sofa Set (Fabric, Sapling Green)",
+    "longDescription": "Sleepyhead Kiki - 3+2 Seater Sofa Set (Fabric, Sapling Green)",
+    "rating": 4.1,
+    "reviews": 56,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "sofa"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "mixer",
+    "price": 2199,
+    "image": "/images/products/undefined/mixer.jpg",
+    "description": "Cookwell Bullet Mixer Grinder (5 Jars, 3 Blades, Silver) - Copper, 600 Watts - 2 Year Warranty",
+    "longDescription": "Cookwell Bullet Mixer Grinder (5 Jars, 3 Blades, Silver) - Copper, 600 Watts - 2 Year Warranty",
+    "rating": 4.3,
+    "reviews": 71,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "mixer"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "pan",
+    "price": 949,
+    "image": "/images/products/undefined/pan.jpg",
+    "description": "Pigeon by Stovekraft Mio Nonstick Aluminium Cookware Gift Set, Includes Nonstick Flat Tawa, Nonstick Fry Pan, Kitchen Tool Set, Kadai with Glass Lid, 8 Pieces Non-Induction Base Kitchen Set - Red",
+    "longDescription": "Pigeon by Stovekraft Mio Nonstick Aluminium Cookware Gift Set, Includes Nonstick Flat Tawa, Nonstick Fry Pan, Kitchen Tool Set, Kadai with Glass Lid, 8 Pieces Non-Induction Base Kitchen Set - Red",
+    "rating": 3.7,
+    "reviews": 96,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "pan"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "home décor",
+    "price": 1278,
+    "image": "/images/products/undefined/home-décor.jpg",
+    "description": "Amazon Brand - Solimo Metal Leaf Wall Hanging Decor | Nature-Inspired Leaf Design | Easy Installation (Set of 3 | Gold)",
+    "longDescription": "Amazon Brand - Solimo Metal Leaf Wall Hanging Decor | Nature-Inspired Leaf Design | Easy Installation (Set of 3 | Gold)",
+    "rating": 4,
+    "reviews": 102,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "home",
+      "décor"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "home décor",
+    "price": 949,
+    "image": "/images/products/undefined/home-décor.jpg",
+    "description": "amazon basics Snail Family Ceramic Finish Figures - Timeless Elegance for Home Décor | Handcrafted Detailing, Durable Ceramic Materials (Golden Set of 3 Pieces)",
+    "longDescription": "amazon basics Snail Family Ceramic Finish Figures - Timeless Elegance for Home Décor | Handcrafted Detailing, Durable Ceramic Materials (Golden Set of 3 Pieces)",
+    "rating": 4.3,
+    "reviews": 64,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "home",
+      "décor"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "mop",
+    "price": 1149,
+    "image": "/images/products/undefined/mop.jpg",
+    "description": "U.P.C. Mop For Floor Cleaning|Flat Mop With Bucket For Floor Cleaning|Pocha For Floor Cleaning With 1+2 Super-Absorbent Microfiber Pads-Black",
+    "longDescription": "U.P.C. Mop For Floor Cleaning|Flat Mop With Bucket For Floor Cleaning|Pocha For Floor Cleaning With 1+2 Super-Absorbent Microfiber Pads-Black",
+    "rating": 3.6,
+    "reviews": 81,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "mop"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "kerastase",
+    "price": 2950,
+    "image": "/images/products/undefined/kerastase.jpg",
+    "description": "Kérastase Genesis Hydra-Fortifiant Anti Hair Fall Shampoo | For Normal to Oily Hair | Infused with Ginger Root and Edelweiss Native Cells | 250ml",
+    "longDescription": "Kérastase Genesis Hydra-Fortifiant Anti Hair Fall Shampoo | For Normal to Oily Hair | Infused with Ginger Root and Edelweiss Native Cells | 250ml",
+    "rating": 4.5,
+    "reviews": 32,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "hair oil",
+      "kerastase"
+    ],
+    "brand": "hair oil"
+  },
+  {
+    "id": "50",
+    "name": "roll on",
+    "price": 149,
+    "image": "/images/products/undefined/roll-on.jpg",
+    "description": "NIVEA Pearl and Beauty 50ml Deo Roll On | With Pearl Extracts & Avocado Oil| 72 H Smooth & Beautiful Underarms | 0% Alcohol | For Women",
+    "longDescription": "NIVEA Pearl and Beauty 50ml Deo Roll On | With Pearl Extracts & Avocado Oil| 72 H Smooth & Beautiful Underarms | 0% Alcohol | For Women",
+    "rating": 4.4,
+    "reviews": 74,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "roll",
+      "on"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "night cream",
+    "price": 450,
+    "image": "/images/products/undefined/night-cream.jpg",
+    "description": "Lotus Herbals Whiteglow Advanced Pink Glow Night Cream | Intense Hydration | Preservative Free | For All Skin Types | 50g",
+    "longDescription": "Lotus Herbals Whiteglow Advanced Pink Glow Night Cream | Intense Hydration | Preservative Free | For All Skin Types | 50g",
+    "rating": 4.1,
+    "reviews": 79,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "night",
+      "cream"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "face wash",
+    "price": 125,
+    "image": "/images/products/undefined/face-wash.jpg",
+    "description": "Garnier Skin Naturals, Facewash, Cleansing and Brightening, Bright Complete, 100 g",
+    "longDescription": "Garnier Skin Naturals, Facewash, Cleansing and Brightening, Bright Complete, 100 g",
+    "rating": 4.2,
+    "reviews": 95,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "face",
+      "wash"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "fase pack",
+    "price": 800,
+    "image": "/images/products/undefined/fase-pack.jpg",
+    "description": "CLAYCO Detan Rice Pack with AHA & BHA | D Tan Face Pack | Brightening Face Pack | Salicylic Acid Face Wash | Skin Care for Tan Removal, Acne & Oily Skin | 50g",
+    "longDescription": "CLAYCO Detan Rice Pack with AHA & BHA | D Tan Face Pack | Brightening Face Pack | Salicylic Acid Face Wash | Skin Care for Tan Removal, Acne & Oily Skin | 50g",
+    "rating": 4.4,
+    "reviews": 111,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "fase",
+      "pack"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "volley ball",
+    "price": 1099,
+    "image": "/images/products/undefined/volley-ball.jpg",
+    "description": "Cosco Super Volley Volleyball, Size 4 (Multicolour) (15002)",
+    "longDescription": "Cosco Super Volley Volleyball, Size 4 (Multicolour) (15002)",
+    "rating": 3.9,
+    "reviews": 56,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "cosco",
+      "volley",
+      "ball"
+    ],
+    "brand": "cosco"
+  },
+  {
+    "id": "55",
+    "name": "Cricket Bat",
+    "price": 890,
+    "image": "/images/products/undefined/cricket-bat.jpg",
+    "description": "MRF Cricket Bat Kahmiri Popular Willow Full Size for Tennis Balll, Plastic Ball, Lather Ball, Rubber Bal with Black Bat Cover",
+    "longDescription": "MRF Cricket Bat Kahmiri Popular Willow Full Size for Tennis Balll, Plastic Ball, Lather Ball, Rubber Bal with Black Bat Cover",
+    "rating": 4,
+    "reviews": 85,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "MRF ",
+      "cricket",
+      "bat"
+    ],
+    "brand": "MRF "
+  },
+  {
+    "id": "56",
+    "name": "badminton",
+    "price": 549,
+    "image": "/images/products/undefined/badminton.jpg",
+    "description": "YONEX ZR 100 Light Aluminium Badminton Racquet with Full Cover | Made in India (Dark Charcoal Set of 1 )",
+    "longDescription": "YONEX ZR 100 Light Aluminium Badminton Racquet with Full Cover | Made in India (Dark Charcoal Set of 1 )",
+    "rating": 4,
+    "reviews": 92,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "yonex",
+      "badminton"
+    ],
+    "brand": "yonex"
+  },
+  {
+    "id": "57",
+    "name": "football",
+    "price": 680,
+    "image": "/images/products/undefined/football.jpg",
+    "description": "Vector X Orion TPU Machine Stitched Indoor/Outdoor Water-Resistant Football + Pump with SR Bladder, White-Green, Size 5, Suitable for Match and Training for Adults 15+ Years + Free Air Needle",
+    "longDescription": "Vector X Orion TPU Machine Stitched Indoor/Outdoor Water-Resistant Football + Pump with SR Bladder, White-Green, Size 5, Suitable for Match and Training for Adults 15+ Years + Free Air Needle",
+    "rating": 3,
+    "reviews": 65,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "vector",
+      "football"
+    ],
+    "brand": "vector"
+  },
+  {
+    "id": "58",
+    "name": "basketball",
+    "price": 590,
+    "image": "/images/products/undefined/basketball.jpg",
+    "description": "Cosco Dribble Rubber /Nylon Basketball , Size 6 (Orange)",
+    "longDescription": "Cosco Dribble Rubber /Nylon Basketball , Size 6 (Orange)",
+    "rating": 4.1,
+    "reviews": 67,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "cosco",
+      "basketball"
+    ],
+    "brand": "cosco"
+  },
+  {
+    "id": "59",
+    "name": "yoga mat",
+    "price": 1099,
+    "image": "/images/products/undefined/yoga-mat.jpg",
+    "description": "Wiselife Tru Body Alignment Yoga Mat + Sleek Yoga Strap For Men And Women | Non-Slip Textured Extra Wide & Thick | Pro Balance Tpe Exercise Mat For Home, Pilates, Gym & Fitness (6MM, Wine)",
+    "longDescription": "Wiselife Tru Body Alignment Yoga Mat + Sleek Yoga Strap For Men And Women | Non-Slip Textured Extra Wide & Thick | Pro Balance Tpe Exercise Mat For Home, Pilates, Gym & Fitness (6MM, Wine)",
+    "rating": 4,
+    "reviews": 108,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": true,
+    "tags": [
+      "wiselife",
+      "yoga",
+      "mat"
+    ],
+    "brand": "wiselife"
+  },
+  {
+    "id": "60",
+    "name": "workout",
+    "price": 375,
+    "image": "/images/products/undefined/workout.jpg",
+    "description": "Wearslim Professional Toning Exercise and Workout Resistance Bands - Training Tube Stackable up to 110 lbs for Indoor and Outdoor Sports, Exercises Fitness-Premium Edition (Toning Tube-Lock Hook-2)",
+    "longDescription": "Wearslim Professional Toning Exercise and Workout Resistance Bands - Training Tube Stackable up to 110 lbs for Indoor and Outdoor Sports, Exercises Fitness-Premium Edition (Toning Tube-Lock Hook-2)",
+    "rating": 3.8,
+    "reviews": 56,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "wearslim",
+      "workout"
+    ],
+    "brand": "wearslim"
+  },
+  {
+    "id": "61",
+    "name": "archery",
+    "price": 569,
+    "image": "/images/products/undefined/archery.jpg",
+    "description": "Toyshine Bow & Arrow Archery Set Outdoor Hunting Adventure Game with Safe 3 Suction Dart Arrows, Target & Quiver Sports Toy Kids 7-12 Years - Blue",
+    "longDescription": "Toyshine Bow & Arrow Archery Set Outdoor Hunting Adventure Game with Safe 3 Suction Dart Arrows, Target & Quiver Sports Toy Kids 7-12 Years - Blue",
+    "rating": 4.1,
+    "reviews": 103,
+    "inStock": true,
+    "categoryId": "1",
+    "featured": false,
+    "tags": [
+      "toyshine",
+      "archery"
+    ],
+    "brand": "toyshine"
+  }
+]
